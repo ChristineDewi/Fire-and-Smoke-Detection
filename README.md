@@ -6,3 +6,6 @@ https://drive.google.com/drive/folders/1IrI2esm9fN2di8T9bnxS1gDZjyj6Z73B?usp=sha
 
 **Original Dataset:**
 https://github.com/vinchole/zzzccc
+
+**Install YOLOv11:**
+https://github.com/ultralytics/ultralytics
